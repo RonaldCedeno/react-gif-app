@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Gif Search React App
+<b>Simple and small web application to search for Gifs and display them.</b>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
